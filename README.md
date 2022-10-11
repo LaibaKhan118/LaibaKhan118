@@ -1,4 +1,4 @@
-😊, Glad to see you here!
+😊 Glad to see you here!
 
 <h1 align="center">Hi 👋, I'm Laiba Khan</h1>
 <h3 align="center">A Passionate Software Engineer (to be) from Pakistan</h3>
