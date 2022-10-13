@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **laibawajahat123@gmail.com**
 
-- ⚡ Fun fact **I don't know that myself 😅**
+- ⚡ Fun fact **I don't know myself 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
