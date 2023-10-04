@@ -5,13 +5,12 @@
 😊 Glad to see you here!
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 💬 Ask me about **Git, JS, and Figma**
 
 - 📫 How to reach me **laibawajahat123@gmail.com**
 
-- ⚡ Fun fact **I don't know myself 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
