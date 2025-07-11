@@ -40,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laibakhan118&show_icons=true&locale=en" alt="laibakhan118" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laibakhan118&" alt="laibakhan118" /></p>
-
