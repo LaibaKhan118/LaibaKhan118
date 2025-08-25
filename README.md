@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **laibawajahat123@gmail.com**
 
+- 💻 Passionate about building efficient, scalable, and user-friendly applications.
+  
+- 🌱 Exploring backend development, problem-solving, and writing clean, maintainable code.
+  
+- ✨ Bringing both technical depth and an eye for detail with a background in frontend and UI design.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
