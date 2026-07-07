@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there! 👋, I'm Laiba Khan</h1>
 <h3 align="center">A Passionate Software Developer (to be) from Pakistan</h3>
 😊 Glad to see you here!
