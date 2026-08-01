@@ -71,9 +71,9 @@
 
 ## Stats:
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-eosin-theta.vercel.app/api/insight?username=LaibaKhan118&theme=dracula&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-eosin-theta.vercel.app/api/insight?username=LaibaKhan118&theme=dracula&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false&count_private=true" />
   
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-eosin-theta.vercel.app/api/insight?username=LaibaKhan118&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-eosin-theta.vercel.app/api/insight?username=LaibaKhan118&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false&count_private=true" />
   
-  <img width=100% height=100% align="center" alt="Github Insights" src="https://github-stats-eosin-theta.vercel.app/api/insight?username=LaibaKhan118&theme=dracula&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" />
+  <img width=100% height=100% align="center" alt="Github Insights" src="https://github-stats-eosin-theta.vercel.app/api/insight?username=LaibaKhan118&theme=dracula&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false&count_private=true" />
 </picture>
